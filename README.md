@@ -20,4 +20,10 @@ En caso de desear ejecutar los puntos del parcial:
 * Click en 'Upload'
 * Click en 'Choose File'
 * Se abrira el explorador de archivos
-* Seleccionar el archivo descomprimido
+* Seleccionar el archivo 'Parcial 1 - Laura Ojeda & Daniel Velasquez'
+
+Recordar que una vez abierto el notebook:
+* Click en 'Files' en el notebok en la sección lateral izquierda de la pantalla
+* Ubicar en el explorador de archivos el archivo 'meetup_groups.csv'
+* Arrastrar este archivo a 'Files'
+* Esto es para poder manejar el archivo csv
